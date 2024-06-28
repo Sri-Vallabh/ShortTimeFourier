@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMN0wfDld9Ai7lb5MqVH7wGeoT94f1yhOPTrfi/rcwkIuVizbZ1CyXm1yNdTdcw6koXrCgrDr5NgWnuAAodXnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\ShortTimeFourier.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsriv\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\tsriv\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

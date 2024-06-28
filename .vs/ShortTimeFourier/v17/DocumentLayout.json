@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|c:\\users\\tsriv\\source\\repos\\shorttimefourier\\shorttimefourier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|solutionrelative:shorttimefourier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\shorttimefourier\\shorttimefourier.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|solutionrelative:shorttimefourier\\shorttimefourier.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\shorttimefourier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1D078EFD-936B-471F-9C93-EE4924DC3BB2}|ShortTimeFourier\\ShortTimeFourier.vbproj|solutionrelative:shorttimefourier\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortTimeFourier",
+              "DocumentMoniker": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\ShortTimeFourier.vbproj",
+              "RelativeDocumentMoniker": "ShortTimeFourier\\ShortTimeFourier.vbproj",
+              "ToolTip": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\ShortTimeFourier.vbproj",
+              "RelativeToolTip": "ShortTimeFourier\\ShortTimeFourier.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-26T17:08:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\Form1.vb",
+              "RelativeDocumentMoniker": "ShortTimeFourier\\Form1.vb",
+              "ToolTip": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\Form1.vb",
+              "RelativeToolTip": "ShortTimeFourier\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T05:56:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\Form1.vb",
+              "RelativeDocumentMoniker": "ShortTimeFourier\\Form1.vb",
+              "ToolTip": "C:\\Users\\tsriv\\source\\repos\\ShortTimeFourier\\ShortTimeFourier\\Form1.vb [Design]",
+              "RelativeToolTip": "ShortTimeFourier\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T05:55:27.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
